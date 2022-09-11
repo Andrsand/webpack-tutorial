@@ -1,3 +1,6 @@
+import example from './images/example.svg'
+
+//import example from './images/example.png'
 //console.log('Как интересно!')
 // создаем элемент заголовка
 // const heading = document.createElement('h1')
