@@ -1,6 +1,6 @@
 import example from './images/example.svg'
 import './styles/main.css'
-import example from './images/example.png'
+import example from './images/example.jpg'
 //console.log('Как интересно!')
 // создаем элемент заголовка
 // const heading = document.createElement('h1')
